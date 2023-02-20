@@ -27,7 +27,7 @@
         params: { id: !!selected ? selected : null },
       }"
     >
-      <DApps /><br />DApps
+      <DApps /><br />DApp
     </router-link>
   </div>
 </template>
